@@ -9,5 +9,3 @@ My goal here is to train a model which can classify images from any source beyon
 Kento Seki<br>29th Dec, 2022
 
 ![](https://airplanes.itsabouttravelling.com/wp-content/uploads/2017/12/main-image.jpg)
-
----
